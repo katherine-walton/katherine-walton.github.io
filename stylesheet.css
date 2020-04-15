@@ -84,7 +84,7 @@ grey-text {
   color: white;
 }
 
-.button {
+button {
   background-color: #18222b;
   color: ##34ebcc;
   border: 1px solid #34ebcc;
