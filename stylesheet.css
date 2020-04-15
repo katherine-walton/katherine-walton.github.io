@@ -55,7 +55,7 @@ grey-text {
     top:-40px;*/
     position: absolute;
     top: 50px;
-    right: 0px;
+    right: 20px;
 }
 
 /* Style the links inside the navigation bar */
@@ -63,7 +63,7 @@ grey-text {
   float: left;
   /*color: #f2f2f2;*/
   text-align: center;
-  padding: 14px 16px;
+  padding: 14px 20px;
   text-decoration: none;
   font-size: 17px;
   font-family: 'Fira Code', monospace;
@@ -86,8 +86,17 @@ grey-text {
 
 button {
   background-color: #18222b;
-  color: ##34ebcc;
+  color: #34ebcc;
   border: 1px solid #34ebcc;
+  border-radius: 5px;
+  font-family: 'Fira Code', monospace;
+  display: inline-block;
+  font-size: 19px;
+  /*margin: 2px 2px;*/
+  /*margin-top: 2px;
+  margin-bottom: 0px;*/
+  margin-left: 20px;
+  padding: 10px;
 }
 
 
