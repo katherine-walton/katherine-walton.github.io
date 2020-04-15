@@ -1,18 +1,20 @@
 body {
-	background-color: #EEE;
+	/*background-color: #EEE;*/
+	/*background-color: #313b45*/
+	background-color: #18222b;
 }
 
 h2 {
-	/*justify-content: center;*/
-	/*align-content: center;*/
-	/*font-family: "Arial", Helvecta, san-serif;*/
-	font-family: Menlo, 'Bitstream Vera Sans Mono', 'DejaVu Sans Mono', Monaco, Consolas, monospace;
+	font-family: 'Lato', sans-serif;
 	font-size: 50px;
-	font-weight: normal;
+	font-weight: 900;
+	color: #EEE;
 }
 
 .header {
-	text-align: center;
+	text-align: left;
+	margin: 300px;
+	display: block;
 }
 
 .hr {
@@ -23,3 +25,25 @@ h2 {
 	margin 1em 0;
 	padding: 0;
 }
+
+green-accent {
+	/*font-family: 'Source Code Pro', monospace;*/
+	font-family: 'Fira Code', monospace;
+	color: #34ebcc;
+	font-size: 20px;
+}
+
+grey-text {
+	font-family: 'Lato', sans-serif;
+	/*color: #5a5f63;*/
+	color: #969899;
+	display: block;
+}
+
+
+
+
+
+
+
+
