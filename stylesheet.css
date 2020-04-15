@@ -60,10 +60,10 @@ grey-text {
 
 /* Style the links inside the navigation bar */
 .topnav a {
-  float: left;
+  /*float: left;*/
   /*color: #f2f2f2;*/
   text-align: center;
-  padding: 14px 20px;
+  padding: 14px 19px;
   text-decoration: none;
   font-size: 17px;
   font-family: 'Fira Code', monospace;
@@ -95,8 +95,9 @@ button {
   /*margin: 2px 2px;*/
   /*margin-top: 2px;
   margin-bottom: 0px;*/
-  margin-left: 20px;
+  /*margin-left: 20px;*/
   padding: 10px;
+  cursor: pointer;
 }
 
 
