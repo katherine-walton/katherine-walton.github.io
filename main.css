@@ -1,0 +1,10 @@
+body {
+	background-color: #EEE;
+}
+
+h1 {
+	justify-content: center;
+	/*align-content: center;*/
+	font-family: "Times New Roman", Times, serif;
+	font-size: 60px;
+}

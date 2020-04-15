@@ -1,0 +1,25 @@
+body {
+	background-color: #EEE;
+}
+
+h2 {
+	/*justify-content: center;*/
+	/*align-content: center;*/
+	/*font-family: "Arial", Helvecta, san-serif;*/
+	font-family: Menlo, 'Bitstream Vera Sans Mono', 'DejaVu Sans Mono', Monaco, Consolas, monospace;
+	font-size: 50px;
+	font-weight: normal;
+}
+
+.header {
+	text-align: center;
+}
+
+.hr {
+	display: block;
+	height: 1px;
+	border: 0;
+	border-top: 1px solid #EEE;
+	margin 1em 0;
+	padding: 0;
+}
