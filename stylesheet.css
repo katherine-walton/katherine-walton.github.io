@@ -2,6 +2,7 @@ body {
 	/*background-color: #EEE;*/
 	/*background-color: #313b45*/
 	background-color: #18222b;
+  overflow-y: scroll;
 }
 
 h2 {
@@ -11,23 +12,31 @@ h2 {
 	color: #EEE;
 }
 
-.header {
+#intro {
 	text-align: left;
 	margin: 300px;
 	display: block;
+  height: 500px;
 }
 
-.hr {
+#about{
+  text-align: left;
+  margin: 300px;
+  display: block;
+}
+
+hr {
 	display: block;
 	height: 1px;
 	border: 0;
-	border-top: 1px solid #EEE;
+	border-top: 1px solid #969899;
 	margin 1em 0;
 	padding: 0;
 }
-.container {
+
+/*container {
 	display: block;
-}
+}*/
 
 green-accent {
 	/*font-family: 'Source Code Pro', monospace;*/
